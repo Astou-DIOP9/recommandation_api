@@ -1,0 +1,8 @@
+{
+    "title": "Test Produit",
+    "description": "Un produit de test",
+    "price": 150,
+    "image": "https://example.com/image.jpg",
+    "category": "Électronique",
+    "in_stock": true
+}
