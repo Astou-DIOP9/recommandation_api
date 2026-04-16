@@ -11,7 +11,7 @@ services:
       - key: APP_DEBUG
         value: "false"
       - key: APP_URL
-        value: https://<votre-app>.onrender.com
+        value: https://recommandation-api-b8un.onrender.com
       - key: DB_CONNECTION
         value: mysql
       - key: DB_HOST
